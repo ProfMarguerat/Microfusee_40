@@ -3,6 +3,8 @@ Fichiers STL pour construire une microfusée de 40mm de diamètre interne de tub
 
 ![Capture d’écran du 2024-07-30 16-46-48](https://github.com/user-attachments/assets/460c27b0-fb65-4578-9ea5-c743926748c8)
 
+[![Microfusée](https://img.youtube.com/vi/L4UtxZpQRAs/0.jpg)](https://youtu.be/L4UtxZpQRAs "Microfusée")
+
 ![IMG_0573](https://github.com/user-attachments/assets/e3666dbf-2724-4ca2-9559-68bded49c608)
 ![IMG_0572](https://github.com/user-attachments/assets/93910993-e8d8-482c-adaa-2ab2adb242e0)
 ![IMG_0571](https://github.com/user-attachments/assets/32b3345c-cfd8-4bb0-a63a-ec6ddf5e0c91)
